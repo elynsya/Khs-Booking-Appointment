@@ -1,4 +1,3 @@
-<img width="1275" height="1650" alt="Untitled document (16)_page-0009" src="https://github.com/user-attachments/assets/0d2f3eee-fc07-4a48-ac03-39d7a008df0a" /># Clinic Appointment Booking System (KHX-Appointment)
 
 A full-stack web application developed as part of the Software Development for Information System course. This platform streamlines medical scheduling by providing an intuitive booking system for patients and a centralized management dashboard for healthcare providers.
 
